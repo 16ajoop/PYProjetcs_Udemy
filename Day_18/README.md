@@ -7,3 +7,10 @@
 
 # Challenge 2 Random Walk
 <img width="1920" height="1080" alt="Screenshot 2025-10-06 103741" src="https://github.com/user-attachments/assets/cf8ea317-80df-41a8-a83f-9f15ec25bd12" />
+
+
+
+
+
+# Challenge 2 Spirograph
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 150943" src="https://github.com/user-attachments/assets/21202bb5-ec66-4eda-84b3-3439312a1fc4" />
