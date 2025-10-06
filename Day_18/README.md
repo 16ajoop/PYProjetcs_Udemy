@@ -12,5 +12,12 @@
 
 
 
-# Challenge 2 Spirograph
+# Challenge 3 Spirograph
 <img width="1920" height="1080" alt="Screenshot 2025-10-06 150943" src="https://github.com/user-attachments/assets/21202bb5-ec66-4eda-84b3-3439312a1fc4" />
+
+
+
+
+
+# Challenge 4 Hirst Painting Project
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 200447" src="https://github.com/user-attachments/assets/cefcb283-5289-4dd0-a358-5c6f87b37164" />
