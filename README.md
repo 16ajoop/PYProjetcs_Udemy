@@ -91,6 +91,7 @@ Follow along as I progress through each day and build hands-on projects! 💪
 - [ ] Templating with Jinja 2
 - [ ] WTForms
 
+---
 
 ### 🧠 Advanced Python
 - [ ] Build Your Own REST API with Python
