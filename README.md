@@ -1,8 +1,4 @@
 <!-- Space-Themed Header -->
-<p align="center">
-  <img src="https://github.com/yourusername/100-days-of-python/blob/main/assets/space_banner.png" alt="100 Days of Python Bootcamp by Pooja" width="800px">
-</p>
-
 <h1 align="center">🪐 100 Days of Python Bootcamp by Udemy</h1>
 <h3 align="center">🚀 Journey Through the Python Galaxy — From Beginner to Professional</h3>
 
