@@ -1,16 +1,35 @@
-# 🐍 100 Days of Python Bootcamp by Udemy  
-### 🚀 My Journey to Master Python – From Beginner to Professional  
+<!-- Space-Themed Header -->
+<p align="center">
+  <img src="https://github.com/yourusername/100-days-of-python/blob/main/assets/space_banner.png" alt="100 Days of Python Bootcamp by Pooja" width="800px">
+</p>
 
-Hi there! 👋 I'm **Pooja**, a B.Tech student in **AI & Data Science**, and this repository documents my learning journey through the **100 Days of Code: The Complete Python Pro Bootcamp** by App Brewery (Udemy).  
+<h1 align="center">🪐 100 Days of Python Bootcamp by Udemy</h1>
+<h3 align="center">🚀 Journey Through the Python Galaxy — From Beginner to Professional</h3>
 
-Each day, I tackle a new concept or project — from basic Python to automation, APIs, data science, and web development.  
-Follow along as I progress through each day and build hands-on projects! 💪  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/100DaysOfCode-%F0%9F%9A%80-orange" />
+  <img src="https://img.shields.io/badge/Made_with-Love%E2%9D%A4%EF%B8%8F-red" />
+  <img src="https://img.shields.io/badge/Status-Ongoing-green" />
+</p>
+
+--- 
+
+
+### 🌌 About Me
+
+Hey there! I’m **Pooja**, a B.Tech student in **AI & Data Science**, currently traveling through the vast universe of **Python programming**.  
+This repo documents my **100 Days of Python Bootcamp** by App Brewery (Udemy), where each day I explore new constellations of knowledge — from **basic syntax** to **data galaxies** and **automation stars**. 🌠  
+
+> 🧭 Mission: Code every day for 100 days and build 100+ projects that shine bright in my coding galaxy!  
 
 ---
 
-## ✅ 100 Days of Python Syllabus Progress  
 
-### 🧩 Beginner Python
+
+## 🪄 Syllabus Progress Tracker
+
+### 🌠 Beginner Python
 - [x] Variables in Python  
 - [x] String Manipulation  
 - [x] Input and Print Functions  
@@ -37,7 +56,7 @@ Follow along as I progress through each day and build hands-on projects! 💪
 
 ---
 
-### ⚙️ Intermediate Python
+### 🌌 Intermediate Python
 - [x] Local Development Environment Setup  
 - [x] PyCharm Tips and Tricks  
 - [x] Python OOP
@@ -73,7 +92,7 @@ Follow along as I progress through each day and build hands-on projects! 💪
 
 ---
 
-### ⚙️ Intermediate +
+### 🌌 Intermediate +
 - [ ] APIs
 - [ ] Making HTTP Requests with the Requests module
 - [ ] Sending Parameters with the Request
@@ -93,7 +112,7 @@ Follow along as I progress through each day and build hands-on projects! 💪
 
 ---
 
-### 🧠 Advanced Python
+### 🌠 Advanced Python
 - [ ] Build Your Own REST API with Python
 - [ ] Build Your Own Blog
 - [ ] Databases with SQLite
@@ -125,7 +144,7 @@ Follow along as I progress through each day and build hands-on projects! 💪
 
 ---
 
-### 💼 Professional Portfolio Projects
+### 🚀 Professional Portfolio Projects
 - [ ] Text to Morse Code Converter  
 - [ ] Portfolio Website  
 - [ ] Tic Tac Toe Game  
@@ -149,6 +168,16 @@ Follow along as I progress through each day and build hands-on projects! 💪
 
 ---
 
-⭐ **Follow my journey** as I complete all 100 days and build exciting Python projects!  
-If you find this helpful, consider starring 🌟 this repository and sharing it with other learners.
+### 🛰️ Connect With Me
+💼 [LinkedIn](https://www.linkedin.com/in/poojav16/) | 🐙 [GitHub](https://github.com/16ajoop) 
+
+---
+
+### 🌈 Support My Journey
+If my cosmic code inspires you —  
+⭐ **Star this repo** and follow along as I complete my 100-day orbit around Python!  
+
+<p align="center">
+  <img src="https://github.com/yourusername/100-days-of-python/blob/main/assets/space_progress.gif" width="400px">
+</p>
 
