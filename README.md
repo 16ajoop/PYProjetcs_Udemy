@@ -1,13 +1,17 @@
 <!-- Space-Themed Header -->
-<h1 align="center">🪐 100 Days of Python Bootcamp by Udemy</h1>
-<h3 align="center">🚀 Journey Through the Python Galaxy — From Beginner to Professional</h3>
+<div align="center" style="background: linear-gradient(135deg, #4B0082, #6A0DAD, #8A2BE2); padding: 40px 20px; border-radius: 20px; color: white;">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/100DaysOfCode-%F0%9F%9A%80-orange" />
-  <img src="https://img.shields.io/badge/Made_with-Love%E2%9D%A4%EF%B8%8F-red" />
-  <img src="https://img.shields.io/badge/Status-Ongoing-green" />
-</p>
+  <h1>🪐 100 Days of Python Bootcamp by Udemy</h1>
+  <h3>🚀 Journey Through the Python Galaxy — From Beginner to Professional</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/100DaysOfCode-%F0%9F%9A%80-orange" />
+    <img src="https://img.shields.io/badge/Made_with-Love%E2%9D%A4%EF%B8%8F-red" />
+    <img src="https://img.shields.io/badge/Status-Ongoing-green" />
+  </p>
+
+</div>
 
 --- 
 
