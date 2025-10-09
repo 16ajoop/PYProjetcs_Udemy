@@ -70,7 +70,7 @@ This repo documents my **100 Days of Python Bootcamp** by App Brewery (Udemy), w
 - [x] Event Listenters
 - [x] Python Instances and State
 - [x] Python Turtle
-- [ ] Game Development with Python and OOP
+- [x] Game Development with Python and OOP
 - [ ] Python Inheritance
 - [ ] Python Slice Function
 - [ ] File I/O Reading and Writing to Local Files
