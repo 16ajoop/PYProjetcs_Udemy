@@ -95,7 +95,8 @@ python main.py
 
 Below is the final output of the Pong game:
 
-> *(Screenshot attached in the repository)*
+![Pong Game Output](assets/pong_output.png)
+
 
 The game window displays:
 
