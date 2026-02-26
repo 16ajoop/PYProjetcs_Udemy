@@ -71,10 +71,10 @@ This repo documents my **100 Days of Python Bootcamp** by App Brewery (Udemy), w
 - [x] Python Instances and State
 - [x] Python Turtle
 - [x] Game Development with Python and OOP
-- [ ] Python Inheritance
-- [ ] Python Slice Function
-- [ ] File I/O Reading and Writing to Local Files
-- [ ] File Directories
+- [x] Python Inheritance
+- [x] Python Slice Function
+- [x] File I/O Reading and Writing to Local Files
+- [x] File Directories
 - [ ] Reading and Writing to CSV
 - [ ] Introduction to the Pandas Framework
 - [ ] List Comprehensions
