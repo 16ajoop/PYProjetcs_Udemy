@@ -36,4 +36,6 @@ data_dict = {
 }
 
 data = pd.DataFrame(data_dict)
+
+# Convert dictionary to CSV file format
 data.to_csv("new_data.csv")
