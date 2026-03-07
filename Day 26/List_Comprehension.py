@@ -11,3 +11,10 @@ print(letters_list)
 # with RANGE
 range_list = [ n*2 for n in range(1,5)]
 print(range_list)
+
+
+
+names = ["Alex", "Beth", "Caroline", "Dave", "Eleanor", "Freddie"]
+short_names = [name.upper() for name in names if len(name) < 5]
+print(short_names)
+
