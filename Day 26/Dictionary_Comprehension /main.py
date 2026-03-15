@@ -17,3 +17,12 @@ student_dict = {
 for (key,value) in student_dict.items():
   print(key)
   print(value)
+
+
+# SAMPLE 3 HOW TO ITERATE OVER A PANDAS DATA FRAME
+import pandas as pd
+student_data_frame = pd.DataFrame(student_dict)
+print(student_data_frame)
+# Loop through rows of a data frame
+for (index, row) in student_data_frame.items():
+  print(row)
